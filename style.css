@@ -1,0 +1,247 @@
+
+
+body{
+	background-color:#fcf6f6;		
+
+		}	
+
+li{
+			
+	display: inline;			
+	position: sticky;
+	position: -webkit-sticky;
+}
+ul{
+		position: fixed;
+  top: 0;
+  width: 100%;		
+}
+
+
+h1{
+	color:rgb(57, 14, 248);
+	text-align: center;
+	font-family: Times;
+	/* Chage the font family */
+	}
+
+
+h3{
+	text-align:center; 		
+	color:powderblue;	
+
+		}	
+				
+header {
+	background-color:lightgray;       
+	color: darkmagenta;
+	text-align:center; 
+	padding:1px;
+	font-size:50px ;
+	font-weight: 400;
+	font-family:'Times New Roman', Times, serif;
+	position: fixed;
+	
+		}				
+	
+#none { list-style-type: none; }				
+
+				
+	footer { 
+	background-color: DarkGray;
+	background-size: 100px;
+	color:red; 
+	clear:both; 
+	text-align:center; 
+	padding:10px;		
+	width:1250px;				
+	height:495px;			
+	margin-top: 10px;
+	border-radius: 20px;
+	margin: 10px;
+	
+}
+	#blue{color: blue;}
+	
+	
+
+	
+	button{
+				
+		font-size:30px;
+		background-color:Lightgray;			
+		text-align:center;
+		background-size: 100%;
+		padding: 5px;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-weight: 600;
+		color: Black;
+	}
+	
+	
+	p{
+
+	color:black;
+	font-size: 25px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;	
+	padding: 5px;
+	margin: 30px;
+	
+	
+	}
+				
+.footing {
+								
+	background-color:#2a3153;					
+	width:1250px;				
+	height:60px;			
+	margin-top: 10px;
+	border-radius: 20px;
+	margin: 10px;
+	text-align: center;							
+			}
+.hed{
+
+    color: black;
+	font-family: serif;
+	font-size: 50px;
+	font-weight: 4000;
+/* for h1 bold  */
+
+}
+				
+.writer {
+	position: absolute;
+	font-size: 70px;
+	color: Green;
+	padding:50px;
+	/* where did i usrd this ?? */
+			}			
+.hre{
+	color:red;
+	size:10px;				
+
+		}
+.container{
+				
+	background: ;
+	font-size: 20px;
+	color: #1e233b;
+	margin: 5px;
+	padding-left:20px ;
+				
+  }
+.caller{
+
+padding: 10px,10px,10px,10px;
+/* just used for padding  */
+}
+.sall{
+	font-size: 22px;
+}
+
+.bolder{
+				
+			font-weight:200px;	
+			font-size:20px;
+				
+}
+
+.padd
+{
+width:400px;
+height:400px;
+padding: 70px;
+  
+}
+.img{
+width: 1000px;
+height: 450px;
+	 	margin: 0px 200px ;		
+				
+}
+#kum{
+		width: 830px;	
+		height: 800px;	
+		margin: 0px 200px ;		
+}
+
+/*
+nav {
+    style: none;
+    line-height:30px;
+    background-color:#48D1CC;
+    height:1000px;
+    width:100px;
+    float:left; 
+    padding:5px;   
+    Overflow: auto;    
+}
+*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+border: 1px solid #e7e7e7;
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0; 
+
+
+}
+
+li {
+ /* float: left; */
+  display: inline;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+ /* ul {
+  background-color: #dddddd; */
+}
+.active {
+  background-color: #4CAF50;
+}
+
+/*
+li {
+  border-right: 1px solid #bbb;
+} */
+
+li:last-child {
+  border-right: none;
+}
+
+
+nav{ text-decoration: none; 
+   text-align: center; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 30pt; 
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+    position: fixed;
+  top: 0;
+  width: 100%;		
+    }
+
+
+
+
+
+
